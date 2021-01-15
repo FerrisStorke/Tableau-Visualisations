@@ -4,3 +4,4 @@ Below you will find a few Tableau Dashboards that I created using public dataset
 
 COVID-19 Cases and Infections in Germany
 
+![alt text](https://github.com/FerrisStorke/Tableau_Visualisations/blob/main/Tableau%20Workbooks/COVID_Germany.png?raw=true)
