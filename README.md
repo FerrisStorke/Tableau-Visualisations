@@ -1,2 +1,6 @@
 # Tableau_Visualisations
-My Tableau visualisations and dashboards are located in this repo. The README.md file contains a summary of each project.
+Below you will find a few Tableau Dashboards that I created using public datasets. Aach Workbook can be found within the "Workbook" directory in this repo.
+
+
+COVID-19 Cases and Infections in Germany
+
