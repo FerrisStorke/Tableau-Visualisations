@@ -1,5 +1,5 @@
 # Tableau Visualisations
-Below you will find a few Tableau Dashboards that I created using public datasets. Each Workbook can be found within the "Workbook" directory in this repo.
+Below you will find a few Tableau Dashboards that I created using public datasets. Each Workbook can be found within the "Tableau Workbooks" directory in this repo.
 
 
 ## US Presidential Elections and COVID-19 Cases and Infections
